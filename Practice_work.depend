@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1598875371 source:d:\devc++\road_generation_code\practice_work\main.cpp
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+	"picojson.h"
+	<fstream>
+	<map>
+	<vector>
+
+1598506946 d:\devc++\road_generation_code\practice_work\picojson.h
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cstddef>
+	<iostream>
+	<iterator>
+	<limits>
+	<map>
+	<stdexcept>
+	<string>
+	<vector>
+	<utility>
+	<cmath>
+	<float.h>
+	<mathimf.h>
+	<math.h>
+	<cerrno>
+	<cinttypes>
+	<inttypes.h>
+	<locale.h>
+
